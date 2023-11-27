@@ -69,7 +69,7 @@ export const TransactionProvider = ({ children }) => {
     } catch (error) {
       console.log(error);
     }
-  };
+  }
 
   const checkIfTransactionsExists = async () => {
     try {
