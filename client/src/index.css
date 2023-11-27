@@ -79,20 +79,6 @@ body {
   -webkit-text-fill-color: transparent;
 }
 
-.input-style {
-  padding: 10px;
-  margin: 5px 0;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  font-size: 1rem;
-}
-
-.input-style:focus {
-  outline: none;
-  border-color: #9ecaed;
-  box-shadow: 0 0 10px #9ecaed;
-}
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
